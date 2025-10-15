@@ -1,0 +1,1 @@
+pyinstaller main.py --name ArcanaAI --onedir --noconfirm --noconsole --add-data "assets;assets" --add-data "model;model" --collect-all llama_cpp --collect-all customtkinter --icon assets/logo.ico
