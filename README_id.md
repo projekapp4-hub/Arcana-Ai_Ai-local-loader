@@ -1,5 +1,7 @@
 # Arcana-Ai_Ai-local-loader
 
+[Versi English](README.md)
+
 Selamat datang di **Arcana-Ai**! Aplikasi AI Loader sederhana yang memungkinkan Anda memuat dan berinteraksi dengan model AI (GGUF) secara lokal di komputer Anda.
 
 Aplikasi ini dibangun murni dengan Python, menggunakan `customtkinter` untuk antarmuka pengguna (GUI) yang modern dan `llama-cpp-python` untuk inferensi AI yang cepat dan efisien di CPU (atau GPU jika didukung).
